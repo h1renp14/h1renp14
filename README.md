@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h1renp14
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning Python 3, Cypress framework, JS
 - 💞️ I’m looking to collaborate on all QA related projects
 - 📫 Reach me @ h1renp@icloud.com
 
